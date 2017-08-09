@@ -9,7 +9,7 @@
 	A blogger wants a Newsletter service in her blog, so the readers can be notified when the blogger send new posts to the blog. Every reader will be able to subscribe a nickname and a email. No repeats, of course. Everything will be saved in a file who only the blogger has acess.
 	Operations: add (Subscribe), remove (Unsubscribe).
 
-	Autor: @caroolcruz
+	Autor: @carolcruz
 	
 */
 //Abstract type of data that defines a subscriber, it has a name and a email
