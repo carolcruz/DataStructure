@@ -8,7 +8,7 @@
 This program solves the following problem:
         A drive thru restaurant wants to use a new service system, whose waiters to take orders are not necessary. The customer orders
   through one of several machines in the restaurant, each machine runs a system that works as follows: the customer can view
-  the menu and make their own order using the number corresponding to the dish That you want, this data will be stored in a
+  the menu and make their own order using the number corresponding to the dish that him/her wants, this data will be stored in a
   queue implemented by dynamic variables, whose kitchen staff will have access. Each dish will be prepared and properly delivered
   to the client. As each dish is prepared and delivered, that order is excluded from the queue because it has already been made.
   The following data will be kept in secondary memory (files): menu and daily billing. The menu will be loaded into a linked list
